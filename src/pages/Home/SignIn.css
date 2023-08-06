@@ -1,0 +1,43 @@
+/* SignUp.css */
+
+.sign-in {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .sign-in h2 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .sign-in input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .sign-in button {
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sign-in button:hover {
+    background-color: #2980b9;
+  }
+  
+  .sign-in p {
+    text-align: center;
+  }
+  

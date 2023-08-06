@@ -1,0 +1,56 @@
+/* DoctorProfilePage.css */
+
+/* Main container styles */
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  .header {
+    margin-bottom: 20px;
+  }
+  
+  /* Requests container styles */
+  .requests-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  /* Request card styles */
+  .request-card {
+    width: 500px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .request-card h3 {
+    margin-top: 0;
+  }
+  
+  .request-card p {
+    margin: 5px 0;
+  }
+  
+  /* Button styles */
+  .button {
+    display: inline-block;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+  }
+  
